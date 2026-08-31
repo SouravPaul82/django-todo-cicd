@@ -1,6 +1,5 @@
-version : "3.3"
-services : 
-  web : 
-    build : . 
-    ports : 
+services: 
+  web: 
+    build: . 
+    ports: 
       - "8001:8001"
