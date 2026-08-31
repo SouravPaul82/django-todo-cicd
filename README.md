@@ -217,11 +217,3 @@ Add verbose logging in pipeline steps (echo, set -x) when debugging.
 - Add image scanning step (Trivy/Clair) before pushing images.
 
 ---
-
-## Contact
-If you want, I can:
-- Update this README in the repository (develop branch),
-- Add a concrete Jenkinsfile example tuned to your exact deployment (ECS or EC2),
-- Or create example AWS IAM policies and scripted deploy helpers.
-
-Please tell me how you'd like me to proceed.
